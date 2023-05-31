@@ -16,9 +16,9 @@ Created a six question quiz that scores by the time it took for you could comple
 
 ## URLs
 
-live URL: 
+live URL: https://rockyluvsemily.github.io/Quiz_Maker/
 <br>
-GitHub Repo URL:https://github.com/RockyluvsEmily/Password_Gen/tree/main
+GitHub Repo URL:https://github.com/RockyluvsEmily/Quiz_Maker/tree/main
 
 ## Author
 Dewayne Cavendish
