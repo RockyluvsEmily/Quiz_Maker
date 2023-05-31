@@ -10,11 +10,13 @@ Created a six question quiz that scores by the time it took for you could comple
 
 
 
-![Screenshot 2023-05-31 144048](https://github.com/RockyluvsEmily/Password_Gen/assets/128332080/1f1194fb-c3af-47f8-97f6-2c164ba355ed)
+![Screenshot 2023-05-31 145103](https://github.com/RockyluvsEmily/Quiz_Maker/assets/128332080/88b790de-c805-4f31-b924-bcdac57cbfcd)
+![Screenshot 2023-05-31 145151](https://github.com/RockyluvsEmily/Quiz_Maker/assets/128332080/1c3f6ccb-c49d-4a08-ac96-e240ce90968a)
+
 
 ## URLs
 
-live URL: https://rockyluvsemily.github.io/Password_Gen/
+live URL: 
 <br>
 GitHub Repo URL:https://github.com/RockyluvsEmily/Password_Gen/tree/main
 
