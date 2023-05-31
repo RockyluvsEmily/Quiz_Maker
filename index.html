@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Coding Trivia</title>
+
+    <link rel="stylesheet" href="./assets/style.css" />
+</head>
+
+<body>
+
+    <div>Time: <span id="timer">60</span></div>
+
+    <div class="wrapper">
+        <div id="start-screen" class="start">
+            <h1>Coding Quiz</h1>
+            <p>
+                Click Start to try an American Dad quiz!
+            </p>
+            <button id="startBtn">Start Quiz</button>
+        </div>
+
+        <div id="questions" class="hide">
+            <h2 id="question-title"></h2>
+            <div id="choices" class="choices"></div>
+        </div>
+
+        <div id="end-screen" class="hide">
+            <h2>All done!</h2>
+            <p>Your final score is <span id="final-score"></span>.</p>
+            <p>
+                Enter Name: <input type="text" id="name" />
+                <button id="submitBtn">Submit</button>
+            </p>
+        </div>
+
+        <div id="score-screen" class="hide">
+            <h2>High Scores</h2>
+            <ol id="score-list"></ol>
+            <button id="restart">play again?</button>
+
+        </div>
+    </div>
+
+
+    <script src="./assets/script.js"></script>
+</body>
+
+</html>
